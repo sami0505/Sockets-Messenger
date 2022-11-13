@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OrsM4FwPicnXb3HRGRH1tPc7kf40yUKqnoK1buYj6p5Lcz5nkUEdO5GcGeEf6u/vNboldze0TBIA1KLVhRhLVQ==",
+  "dgSpecHash": "9mmDsj3/tvmHu4IIBu6BD8IS+EgbUORlgUEOO0xctr7NoQHnvk8JfIg75vP9jWt0vhtkzWL4t/6CNp6RhjJiHA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sami\\source\\repos\\SocketsTrial2\\ClientSide\\ClientSide.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Sami\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
-    "C:\\Users\\Sami\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Sami\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\Sami\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
