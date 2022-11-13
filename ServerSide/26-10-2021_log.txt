@@ -1,0 +1,110 @@
+Interaction at 01:09:
+	Origin: 192.168.1.245:6778
+	Message: "Hello There. You hear?"
+	Response: "Yes, I hear." 
+
+Interaction at 01:14:
+	Origin: 192.168.1.203:50708
+	Message: "Apologies."
+	Response: "Forgiven." 
+
+Interaction at 01:26:
+	Origin: 192.168.1.203:55125
+	Message: "aaaaaaaaaaadddddddddddddddddddddddfffffffffffffffffffffff"
+	Response: "Your gibberish doesn't faze me, mortal." 
+
+Interaction at 16:04:
+	Origin: 192.168.1.245:39164
+	Message: "Hello"
+	Response: "Salutations" 
+
+Interaction at 16:05:
+	Origin: 192.168.1.245:39170
+	Message: "My god, it works!!!"
+	Response: "Indeed it does." 
+
+Interaction at 16:06:
+	Origin: 192.168.1.245:39188
+	Message: "So, wanna finish?"
+	Response: "Sure." 
+
+Interaction at 19:09:
+	Origin: 192.168.1.245:39466
+	Message: "Hello there!"
+	Response: "Salutations!" 
+
+Interaction at 19:10:
+	Origin: 192.168.1.245:39470
+	Message: "Farewell"
+	Response: "Bye~" 
+
+Interaction at 19:12:
+	Origin: 192.168.1.245:39472
+	Message: "Can anyone hear this?"
+	Response: "Yes, are the response signals valid?" 
+
+Interaction at 19:14:
+	Origin: 192.168.1.245:39484
+	Message: ""
+	Response: "k" 
+
+Interaction at 19:14:
+	Origin: 192.168.1.245:39488
+	Message: "Is this transmitting HQ?"
+	Response: "Yes." 
+
+Interaction at 19:15:
+	Origin: 192.168.1.245:39498
+	Message: "Hold on."
+	Response: "Alright" 
+
+Interaction at 19:17:
+	Origin: 192.168.1.245:39510
+	Message: "Hello?"
+	Response: "Hi. You hear?" 
+
+Interaction at 19:18:
+	Origin: 192.168.1.245:39516
+	Message: "very much so"
+	Response: "the log must be huge. Dissappear pls." 
+
+Interaction at 19:22:
+	Origin: 192.168.1.245:39544
+	Message: "Message_Check."
+	Response: "Message_Response." 
+
+Interaction at 19:23:
+	Origin: 192.168.1.245:39546
+	Message: "Did that work?"
+	Response: "Yeah." 
+
+Interaction at 19:32:
+	Origin: 192.168.1.245:39550
+	Message: "Hi There."
+	Response: "Sorry, busy." 
+
+Interaction at 19:32:
+	Origin: 192.168.1.203:64602
+	Message: "Hewwo"
+	Response: "OwO" 
+
+Interaction at 19:36:
+	Origin: 192.168.1.245:39586
+	Message: ""
+	Response: "f" 
+
+Interaction at 19:36:
+	Origin: 192.168.1.203:49624
+	Message: "Hi."
+	Response: "hi" 
+
+Interaction at 19:40:
+	Origin: 192.168.1.245:39588
+	Message: "hi"
+	Response: "hi hi" 
+
+Interaction at 19:44:
+	Origin: 192.168.1.203:49635
+	Message: "Hi, i suck."
+	Response: "Fcuk" 
+

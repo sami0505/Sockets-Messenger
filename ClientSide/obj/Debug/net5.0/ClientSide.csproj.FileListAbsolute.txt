@@ -1,0 +1,16 @@
+/home/sami/Documents/C# Code/SocketsTrial2/ClientSide/bin/Debug/net5.0/ClientSide
+/home/sami/Documents/C# Code/SocketsTrial2/ClientSide/bin/Debug/net5.0/ClientSide.deps.json
+/home/sami/Documents/C# Code/SocketsTrial2/ClientSide/bin/Debug/net5.0/ClientSide.runtimeconfig.json
+/home/sami/Documents/C# Code/SocketsTrial2/ClientSide/bin/Debug/net5.0/ClientSide.runtimeconfig.dev.json
+/home/sami/Documents/C# Code/SocketsTrial2/ClientSide/bin/Debug/net5.0/ClientSide.dll
+/home/sami/Documents/C# Code/SocketsTrial2/ClientSide/bin/Debug/net5.0/ref/ClientSide.dll
+/home/sami/Documents/C# Code/SocketsTrial2/ClientSide/bin/Debug/net5.0/ClientSide.pdb
+/home/sami/Documents/C# Code/SocketsTrial2/ClientSide/obj/Debug/net5.0/ClientSide.csproj.AssemblyReference.cache
+/home/sami/Documents/C# Code/SocketsTrial2/ClientSide/obj/Debug/net5.0/ClientSide.GeneratedMSBuildEditorConfig.editorconfig
+/home/sami/Documents/C# Code/SocketsTrial2/ClientSide/obj/Debug/net5.0/ClientSide.AssemblyInfoInputs.cache
+/home/sami/Documents/C# Code/SocketsTrial2/ClientSide/obj/Debug/net5.0/ClientSide.AssemblyInfo.cs
+/home/sami/Documents/C# Code/SocketsTrial2/ClientSide/obj/Debug/net5.0/ClientSide.csproj.CoreCompileInputs.cache
+/home/sami/Documents/C# Code/SocketsTrial2/ClientSide/obj/Debug/net5.0/ClientSide.dll
+/home/sami/Documents/C# Code/SocketsTrial2/ClientSide/obj/Debug/net5.0/ref/ClientSide.dll
+/home/sami/Documents/C# Code/SocketsTrial2/ClientSide/obj/Debug/net5.0/ClientSide.pdb
+/home/sami/Documents/C# Code/SocketsTrial2/ClientSide/obj/Debug/net5.0/ClientSide.genruntimeconfig.cache
